@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: "Predicting Sleep from Your Pocket"
+description: "Can a smartphone predict how long you'll sleep tonight? A data science investigation using the UCSD ExtraSensory Dataset."
