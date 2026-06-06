@@ -1,6 +1,6 @@
 # Predicting Sleep from Your Pocket: Can Daytime Sensor Data Forecast Tonight's Rest?
 
-**Author:** Rami Abukhater  
+**Authors:** Rami Abukhater, Minh Thai  
 **Course:** DSC 80, Spring 2026, UC San Diego
 
 ---
